@@ -2,6 +2,8 @@
 
 A 4-degree-of-freedom robotic arm I designed and built in 6 weeks for my IB Personal Project.
 
+<img width="1110" height="636" alt="image" src="https://github.com/user-attachments/assets/1c76d511-760f-48a0-aa36-b59e732d185b" />
+
 The arm has a **70 cm reach** and a **200 g payload capacity**. It was built mostly from salvaged parts, with around **$50 spent on new electronics**.
 
 ## Hardware
@@ -52,5 +54,5 @@ The arm successfully moved under software control, although electrical reliabili
 <img width="3024" height="4032" alt="IMG_1086" src="https://github.com/user-attachments/assets/367f9986-3b35-4781-9f82-cc6a8ea4359c" />
 *yep, 3D printer broke down before I could add a proper grabber
 *
-<img width="1586" height="908" alt="image" src="https://github.com/user-attachments/assets/1c76d511-760f-48a0-aa36-b59e732d185b" />
+
 
